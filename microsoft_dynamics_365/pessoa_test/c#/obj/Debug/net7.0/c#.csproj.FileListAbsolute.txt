@@ -1,0 +1,15 @@
+/home/user_normal/dio/c#/bin/Debug/net7.0/c#
+/home/user_normal/dio/c#/bin/Debug/net7.0/c#.deps.json
+/home/user_normal/dio/c#/bin/Debug/net7.0/c#.runtimeconfig.json
+/home/user_normal/dio/c#/bin/Debug/net7.0/c#.dll
+/home/user_normal/dio/c#/bin/Debug/net7.0/c#.pdb
+/home/user_normal/dio/c#/obj/Debug/net7.0/c#.csproj.AssemblyReference.cache
+/home/user_normal/dio/c#/obj/Debug/net7.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/user_normal/dio/c#/obj/Debug/net7.0/c#.AssemblyInfoInputs.cache
+/home/user_normal/dio/c#/obj/Debug/net7.0/c#.AssemblyInfo.cs
+/home/user_normal/dio/c#/obj/Debug/net7.0/c#.csproj.CoreCompileInputs.cache
+/home/user_normal/dio/c#/obj/Debug/net7.0/c#.dll
+/home/user_normal/dio/c#/obj/Debug/net7.0/refint/c#.dll
+/home/user_normal/dio/c#/obj/Debug/net7.0/c#.pdb
+/home/user_normal/dio/c#/obj/Debug/net7.0/c#.genruntimeconfig.cache
+/home/user_normal/dio/c#/obj/Debug/net7.0/ref/c#.dll

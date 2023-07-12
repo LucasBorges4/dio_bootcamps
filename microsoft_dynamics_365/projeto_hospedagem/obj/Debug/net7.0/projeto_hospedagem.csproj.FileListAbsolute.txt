@@ -1,0 +1,15 @@
+/home/user_normal/dio/projeto_hospedagem/obj/Debug/net7.0/projeto_hospedagem.csproj.AssemblyReference.cache
+/home/user_normal/dio/projeto_hospedagem/obj/Debug/net7.0/projeto_hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+/home/user_normal/dio/projeto_hospedagem/obj/Debug/net7.0/projeto_hospedagem.AssemblyInfoInputs.cache
+/home/user_normal/dio/projeto_hospedagem/obj/Debug/net7.0/projeto_hospedagem.AssemblyInfo.cs
+/home/user_normal/dio/projeto_hospedagem/obj/Debug/net7.0/projeto_hospedagem.csproj.CoreCompileInputs.cache
+/home/user_normal/dio/projeto_hospedagem/bin/Debug/net7.0/projeto_hospedagem
+/home/user_normal/dio/projeto_hospedagem/bin/Debug/net7.0/projeto_hospedagem.deps.json
+/home/user_normal/dio/projeto_hospedagem/bin/Debug/net7.0/projeto_hospedagem.runtimeconfig.json
+/home/user_normal/dio/projeto_hospedagem/bin/Debug/net7.0/projeto_hospedagem.dll
+/home/user_normal/dio/projeto_hospedagem/bin/Debug/net7.0/projeto_hospedagem.pdb
+/home/user_normal/dio/projeto_hospedagem/obj/Debug/net7.0/projeto_hospedagem.dll
+/home/user_normal/dio/projeto_hospedagem/obj/Debug/net7.0/refint/projeto_hospedagem.dll
+/home/user_normal/dio/projeto_hospedagem/obj/Debug/net7.0/projeto_hospedagem.pdb
+/home/user_normal/dio/projeto_hospedagem/obj/Debug/net7.0/projeto_hospedagem.genruntimeconfig.cache
+/home/user_normal/dio/projeto_hospedagem/obj/Debug/net7.0/ref/projeto_hospedagem.dll
