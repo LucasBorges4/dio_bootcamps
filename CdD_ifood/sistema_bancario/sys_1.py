@@ -6,6 +6,7 @@ menu = """
 [q] Sair
 ------------------------------
 => """
+
 historico = []
 saldo = 0
 limite_valor_saque = 500
@@ -58,6 +59,3 @@ Tentativa de saque ignorada.
     
     else:
         print("Operação inválida, por favor selecione novamente a operação desejada.")
-
-
-
