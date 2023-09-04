@@ -1,0 +1,12 @@
+1- mostrar todas as tabelas ao mesmo tempo
+2- Qual o numero comprado de produtos por categorias suas avaliações e qualidade
+3 - Qual é a quantidade a quantidade de vendas feitas por vendedor
+4 - Quais os produtos por categoria vendido por vendedor 
+5 - Qual o preço por produto e calcular a média e variancia
+6 - Qual foi ultimo aceso ao estoque e o encarregado
+7 - Qual o método de pagamento mais escolhido
+8 - relacionar os resultados de 3 e 5 e mostrar
+9 - Qual é a relação entre o numero de produtos comprados por carrinho e o preço
+10 - quem comprou mais
+
+
